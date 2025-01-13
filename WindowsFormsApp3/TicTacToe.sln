@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35319.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tictactoeform", "WindowsFormsApp3\Tictactoeform.csproj", "{49C70137-51C7-492F-A8D2-BC230EEDB4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C70137-51C7-492F-A8D2-BC230EEDB4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C70137-51C7-492F-A8D2-BC230EEDB4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C70137-51C7-492F-A8D2-BC230EEDB4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C70137-51C7-492F-A8D2-BC230EEDB4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F23581-366E-4AE7-A6DE-2FEEC73460B4}
+	EndGlobalSection
+EndGlobal
